@@ -9,6 +9,7 @@ public class OmgApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(OmgApplication.class, args);
 		//changes made by srikanth
+		//changes made by swthi
 	}
 
 }

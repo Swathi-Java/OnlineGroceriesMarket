@@ -13,3 +13,4 @@ public class OmgApplication {
 	}
 
 }
+//hello madam in main
